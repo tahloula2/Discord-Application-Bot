@@ -26,11 +26,11 @@ client.on('message', async message => {
 
 
     let questions = {
-        firstQuestion: "Are you familiar with Github ?  ``Yes/No``",
-        secondQuestion: "How long are you online a day ?",
-        thirdQuestion: "When you get stuck on a problem, what do you do ?",
-        fourthQuestion: "How old are you ?",
-        fifthQuestion: "Are you ready to work in a team and move it forward in a meaningful way ?  ``Yes/No``",
+        firstQuestion: "esmek fel discord :  ``user#0000``",
+        secondQuestion: "Esm Character mté3k in Game : ``lezmou Ykoun Real w mouch esm mta3 troll`` ",
+        thirdQuestion: " backstory : ``(min 4 ostra )`` ",
+        fourthQuestion: "chniya l'objectif imta3ik fil imdina ?",
+        fifthQuestion: "``Powergaming  ?``                                                     1- to9tel wahed bi spam                                                     2- tathreb wahed bil karihba                                                     3- Tnagez mn Banya 3alya w mata3ml hata reaction",
     }
 
 
